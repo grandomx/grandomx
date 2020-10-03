@@ -15,7 +15,6 @@
 ## Gamer and Developer!
 
 -   🔭 Thanatos Minecraft Client
-<!-- -   🌱 I’m currently learning Lua, Java, and more! -->
 -   🤔 FIRSTCLASS Developer (FiveM)
 -   ⚡ I like to play guitar!
 
@@ -72,13 +71,10 @@ Windows                  3 hrs               ███████████�
 
 <!--END_SECTION:waka-->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>💻 GitHub Stats</summary>
 
 <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api/top-langs/?username=grandomx&show_icons=true&hide_border=true&theme=tokyonight" />
   <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grandomx&theme=tokyonight" />
-  
-</details>
 
 <!-- <details>
   <summary>:zap: GitHub Activity</summary>
