@@ -2,7 +2,7 @@
 <a href="https://www.facebook.com/grandomx">GRANDOMX</a>!</h1><!-- 👋 -->
 
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol) -->
-[![Website](https:?/firstclass-indo.com)][website]
+[![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website]
 [![Visits](https://badges.pufler.dev/visits/grandomx/grandomx?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/grandomx)
 
 [<img align="left" alt="firstclass-indo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -85,11 +85,11 @@ Windows                  3 hrs               ███████████�
 <!-- <details>
   <summary>:zap: GitHub Activity</summary>
 
-  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/anmol098/waka-readme-stats/issues/107) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-  <!--END_SECTION:activity-->
+  <!--START_SECTION:activity
+<!--1. 🗣 Commented on [#107](https://github.com/anmol098/waka-readme-stats/issues/107) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+  END_SECTION:activity
   
-</details> -->
+<!--</details>-->
 
 [website]: https://firstclass-indo.com
 [youtube]: https://www.youtube.com/channel/UCfj1qIxFvHKkfub_dhDeyIQ
