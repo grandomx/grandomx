@@ -37,8 +37,6 @@
 
 <br />
 
----
-
 <!--START_SECTION:waka
 📊 **This Week I Spent My Time On** 
 
@@ -71,8 +69,6 @@ Windows                  3 hrs               ███████████�
 
 
 <!--END_SECTION:waka-->
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
