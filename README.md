@@ -3,7 +3,7 @@
 
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol) -->
 [![Website](https://img.shields.io/website?label=grandomx.com&url=https%3A%2F%2Fgrandomx.com&style=flat-square)][website]
-<!-- [![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website] -- >
+[![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website]
 [![Visits](https://badges.pufler.dev/visits/grandomx/grandomx?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/grandomx)
 
 [<img align="left" alt="grandomx.com/discord" width="22px" src="http://grandomx.com/img/discord-seeklogo.com.svg" />][discord]
