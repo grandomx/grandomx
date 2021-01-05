@@ -88,6 +88,5 @@ Windows                  3 hrs               ███████████�
   
 <!--</details>-->
 
-[website]: http://grandomx.com
-[website]: https://firstclass-indo.com
+[discord]: http://grandomx.com/discord
 [youtube]: https://www.youtube.com/channel/UCfj1qIxFvHKkfub_dhDeyIQ
