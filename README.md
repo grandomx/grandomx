@@ -26,7 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
-<img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" />
+<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 
 <br />
 
