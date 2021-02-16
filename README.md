@@ -12,11 +12,7 @@
 
 <br />
 
-## Gamer and Developer!
-
--   🔭 Thanatos Minecraft Client
--   🤔 FIRSTCLASS Developer (FiveM)
--   ⚡ I like to play guitar!
+## 19 | Developer | Scripter
 
 **Languages and Tools:**
 
