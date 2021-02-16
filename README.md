@@ -3,7 +3,7 @@
 
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol) -->
 [![Website](https://img.shields.io/website?label=grandomx.com&url=https%3A%2F%2Fgrandomx.com&style=flat-square)][website]
-[![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website]
+<!-- [![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website] -->
 [![Visits](https://badges.pufler.dev/visits/grandomx/grandomx?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/grandomx)
 
 [<img align="left" alt="grandomx.com/discord" width="22px" src="http://grandomx.com/img/discord-seeklogo.com.svg" />][discord]
@@ -11,8 +11,6 @@
 <!-- [<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch] -->
 
 <br />
-
-## 19 | Developer | Scripter
 
 **Languages and Tools:**
 
