@@ -69,7 +69,8 @@ Windows                  3 hrs               ███████████�
 
 <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api/top-langs/?username=grandomx&show_icons=true&hide_border=true&theme=tokyonight" /><br><br><br><br><br><br><br><br><br>
 
-<img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grandomx&theme=tokyonight" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grandomx&count_private=true&theme=tokyonight)
+<!-- <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grandomx&theme=tokyonight" /> -->
 
 <!-- <details>
   <summary>:zap: GitHub Activity</summary>
