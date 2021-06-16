@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, -->
-<a>GRANDOMX</a></h1><!-- 👋 -->
+<a href="https://github.com/grandomx">GRANDØMX</a></h1><!-- 👋 -->
 
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol) -->
 [![Website](https://img.shields.io/website?label=grandomx.com&url=https%3A%2F%2Fgrandomx.com&style=flat-square)][website]
