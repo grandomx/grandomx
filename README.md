@@ -10,7 +10,7 @@
 <!-- [<img align="left" alt="GRANDOMX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch] -->
 
-<br />
+<br>
 
 **Languages and Tools:**
 
@@ -28,7 +28,7 @@
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 
-<br />
+<br>
 
 ---
 
@@ -68,9 +68,9 @@ Windows                  3 hrs               ███████████�
 <summary>💻 GitHub Stats</summary><br>
 
 <!-- <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api/top-langs/?username=grandomx&show_icons=true&hide_border=true&theme=tokyonight" /><br><br><br><br><br><br><br><br><br> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grandomx&layout=compact&count_private=true&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grandomx&layout=compact&count_private=true&theme=tokyonight) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grandomx&count_private=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grandomx&count_private=true&theme=tokyonight) -->
 <!-- <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grandomx&theme=tokyonight" /> -->
 
 <!-- <details>
