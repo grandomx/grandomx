@@ -28,9 +28,9 @@
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 
-<br>
+<!-- <br> -->
 
----
+<!-- --- -->
 
 <!--START_SECTION:waka
 📊 **This Week I Spent My Time On** 
@@ -65,7 +65,7 @@ Windows                  3 hrs               ███████████�
 
 <!--END_SECTION:waka-->
 
-<summary>💻 GitHub Stats</summary><br>
+<!-- <summary>💻 GitHub Stats</summary><br> -->
 
 <!-- <img align="left" alt="GRANDOMX's GitHub Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api/top-langs/?username=grandomx&show_icons=true&hide_border=true&theme=tokyonight" /><br><br><br><br><br><br><br><br><br> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grandomx&layout=compact&count_private=true&theme=tokyonight) -->
