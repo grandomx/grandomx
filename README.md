@@ -4,7 +4,10 @@
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol) -->
 [![Website](https://img.shields.io/website?label=grandomx.com&url=https%3A%2F%2Fgrandomx.com&style=flat-square)][website]
 <!-- [![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website] -->
-[![Visits](https://badges.pufler.dev/visits/grandomx/grandomx?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/grandomx)
+<!-- [![Visits](https://badges.pufler.dev/visits/grandomx/grandomx?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/grandomx) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=grandomx.visitor-badge)
+
+![GitHub Snake](github-contribution-grid-snake.svg)
 
 <!-- [<img align="left" alt="grandomx.com/discord" width="22px" src="http://grandomx.com/img/discord-seeklogo.com.svg" />][discord] -->
 <!-- [<img align="left" alt="GRANDOMX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
