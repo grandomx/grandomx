@@ -1,24 +1,31 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, -->
 <a href="https://github.com/grandomx">GRANDØMX</a></h1><!-- 👋 -->
 
+22 years old, Software Engineer
+
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol) -->
-[![Website](https://img.shields.io/website?label=grandomx.com&url=https%3A%2F%2Fgrandomx.com&style=flat-square)][website]
+<!-- [![Website](https://img.shields.io/website?label=grandomx.com&url=https%3A%2F%2Fgrandomx.com&style=flat-square)][website] -->
 <!-- [![Website](https://img.shields.io/website?label=firstclass-indo.com&url=https%3A%2F%2Ffirstclass-indo.com&style=flat-square)][website] -->
 <!-- [![Visits](https://badges.pufler.dev/visits/grandomx/grandomx?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/grandomx) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=grandomx.visitor-badge)
 
-![GitHub Snake](https://github.com/grandomx/grandomx/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/grandomx/grandomx/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/grandomx/grandomx/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/grandomx/grandomx/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+<!-- ![GitHub Snake](https://github.com/grandomx/grandomx/blob/output/github-contribution-grid-snake.gif) -->
 
 <!-- [<img align="left" alt="grandomx.com/discord" width="22px" src="http://grandomx.com/img/discord-seeklogo.com.svg" />][discord] -->
 <!-- [<img align="left" alt="GRANDOMX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch] -->
 
-<!-- <br> -->
+<br/>
 
 **Languages and Tools:**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://img.icons8.com/color/452/visual-studio-2019.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png" />
 <img align="left" alt="Sublime Text" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
 <img align="left" alt="Eclipse IDE" width="26px" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-app-pack-two/256/Eclipse-icon.png" />
 <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
@@ -31,7 +38,11 @@
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 
-<!-- <br> -->
+<br/><br/>
+
+<picture>
+  <img src="https://github.com/grandomx/grandomx/blob/main/metrics.plugin.achievements.compact.svg" alt="Metrics">
+</picture>
 
 <!-- --- -->
 
