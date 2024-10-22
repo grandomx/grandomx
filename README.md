@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=GRANDØMX;" />
 </h1>
 
-<h3 align="center">Software Engineer, 22</h3>
+<h3 align="center">Software Engineer, 23</h3>
 
 <br/>
 
