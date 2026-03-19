@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=GRANDØMX;" />
 </h1>
 
-<h3 align="center">Software Engineer, 23</h3>
+<h3 align="center">Software Engineer, 24</h3>
 
 <br/>
 
@@ -44,12 +44,13 @@
 <div align="center">
   <h2>⚡ Metrics ⚡</h2> 
   <br/>
-  <img src="https://github.com/grandomx/grandomx/blob/main/metrics.plugin.achievements.compact.svg" alt="Metrics">
+  <!-- <img src="https://github.com/grandomx/grandomx/blob/main/metrics.plugin.achievements.compact.svg" alt="Metrics"> -->
+  [![grandomx's GitHub stats](https://github-readme-stats.vercel.app/api?username=grandomx)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<br/><br/>
+<!-- <br/><br/>
 <hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Currently+learning+3d+modelling">
-</h3>
+</h3> -->
