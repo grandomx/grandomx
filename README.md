@@ -44,7 +44,7 @@
     <a href="https://grandomx.com">
         <img src="https://img.shields.io/badge/grandomx-333333?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
     </a>
-    <a href="mailto:grandomx@gmail.com">
+    <a href="mailto:admin@grandomx.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
 </p>
